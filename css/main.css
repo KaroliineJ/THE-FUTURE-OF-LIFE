@@ -1,0 +1,30 @@
+
+ h1{
+  align-items: center;
+ }
+
+body {
+background-color:
+justify-content: space-between;
+align-items: center;
+
+}
+
+
+
+}
+
+
+
+header{
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap-reverse;
+  align-items: flex-start;
+  align-content: space-between;
+}
